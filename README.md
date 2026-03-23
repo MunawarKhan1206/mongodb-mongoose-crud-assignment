@@ -116,11 +116,4 @@ https://github.com/munawarkhan1206
 
 ---
 
-## ⚠️ Notes
-
-* Make sure MongoDB is running or Atlas IP is whitelisted
-* Do NOT upload your `.env` file
-
----
-
 ## 🚀 Happy Coding!
